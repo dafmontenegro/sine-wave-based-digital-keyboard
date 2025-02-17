@@ -1,6 +1,6 @@
 # Implementation of a Digital Keyboard Based on Sinusoidal Signals
 
-[**Python Notebook**](https://github.com/dafmontenegro/sine-wave-based-digital-keyboard/blob/master/sine-wave-based-digital-keyboard.ipynb) | [**Webpage**](https://github.com/dafmontenegro/sine-wave-based-digital-keyboard) | [**Repository**](https://github.com/dafmontenegro/sine-wave-based-digital-keyboard)
+[**Python Notebook**](https://github.com/dafmontenegro/sine-wave-based-digital-keyboard/blob/master/sine-wave-based-digital-keyboard.ipynb) | [**Webpage**](https://montenegrodanielfelipe.com/blog/sine-wave-based-digital-keyboard) | [**Repository**](https://github.com/dafmontenegro/sine-wave-based-digital-keyboard)
 
 ## Introduction
 
@@ -254,7 +254,7 @@ plt.show()
 
 For this project, the following resources and tools were used:
 - **Programming Language:** Python
-- **Libraries:** NumPy, IPython.display (Audio) and ipywidgets
+- **Libraries:** NumPy, matplotlib, IPython.display (Audio) and ipywidgets
 - **Documentation:** Signal theory and digital audio synthesis documentation provided the theoretical foundation.
 
 ## Conclusions
